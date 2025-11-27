@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <h1>✍️ Welcome to the Creative Side! </h1>
+  <h1>✍️ Welcome to my Creative Side! </h1>
   <p><strong>The spot for all things content! A portfolio showcasing my writing, editing, and design skills.</strong></p>
-  <h2> What to Expect</h2>
+  <h2> 🧐 What to Expect</h2>
 <p> This is where I keep my favorite writing and design samples!.</p>
 <p> Everything from professional comms, tech stories, and purpose-driven content, to personal reflections and essays (because, shhh... writing feels easier than talking!).</p>
   <h2>📂 What's Inside?</h2>
